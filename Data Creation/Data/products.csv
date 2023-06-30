@@ -1,0 +1,23 @@
+,Product_ID,Products,Category,Price
+0,P1,Almonds,Grocery,50
+1,P2,Apples,Grocery,98
+2,P3,Cabbages,Grocery,30
+3,P4,Pulses,Grocery,120
+4,P5,Cheese,Grocery,25
+5,P6,Onions,Grocery,18
+6,P7,Bread,Grocery,12
+7,P8,Pepsi,Drinks,40
+8,P9,Red Bull,Drinks,80
+9,P10,Orange Juice,Drinks,60
+10,P11,Smoothie,Drinks,45
+11,P12,Milk,Drinks,36
+12,P13,Water,Drinks,8
+13,P14,Knife,Kitchen,98
+14,P15,Gas Stove,Kitchen,350
+15,P16,Induction,Kitchen,520
+16,P17,Rice Cooker,Kitchen,488
+17,P18,Sunscreen,Personal Care,69
+18,P19,Face Wash,Personal Care,54
+19,P20,Hair Color,Personal Care,49
+20,P21,Shaving Cream,Personal Care,76
+21,P22,Moisturizer,Personal Care,92
